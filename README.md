@@ -3,7 +3,7 @@
 ## Overview
 This project documents the design and deployment of a secure cloud infrastructure environment using Amazon Web Services. The lab simulates how a real company would configure and secure their cloud environment, covering networking, identity and access management, compute, storage, and audit logging.
 
-## Architecture
+## Lab Architecture
 ```
 AWS Cloud
 │
